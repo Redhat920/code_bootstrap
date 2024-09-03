@@ -1,0 +1,5 @@
+.carousel-item > img {
+    width: 100%; /* Set specific width */
+    height: 380px;/* Set specific height */
+    object-fit: cover; /* Ensure images fit the specified dimensions */
+  }
